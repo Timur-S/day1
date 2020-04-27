@@ -1,0 +1,15 @@
+- device_type: cisco_ios
+  ip: 192.168.184.11
+  username: cisco
+  password: cisco
+  secret: cisco
+- device_type: cisco_ios
+  ip: 192.168.184.12
+  username: cisco
+  password: cisco
+  secret: cisco
+- device_type: cisco_nxos
+  ip: 192.168.184.13
+  username: cisco
+  password: P@$$w0rd
+

@@ -1,0 +1,10 @@
+/bin/
+/devices.yaml/
+/__pycache__/
+/tmp/
+/pyvenv.cfg/
+/include/
+/lib/
+/share/
+/~lib64/	
+/lib64/
